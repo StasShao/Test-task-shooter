@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0993d3ced5bab46a88f8d0d4d7b86e, type: 3}
+  m_Name: PrisonerPoolSettings
+  m_EditorClassIdentifier: 
+  startPoolCapacity: 50
+  maxPoolCapacity: 50
+  spawninstanceCount: 2
+  bulletPoolForceImpulce: 0
+  poolelEmentLifeTimer: 0
+  timerCoefficient: 0
+  autoExpand: 0
+  isInstancePool: 1
+  isBulletPool: 0
