@@ -7,10 +7,11 @@
 In project need create some layers & change in project settings/Physics:
 //====================================================================================================================================
 //1) - create Layers for (JailObjects) named it what ever you want
-//2) - create Layer for (GroundFloor-1,2,3) call layer - "Ground" 
+//2) - create Layer for (GroundFloor-1,2,3 & for Ladder) call layer - "Ground" 
 //3) - create Layer for (FirstPersonCharacter) call layer "Player"
 //4) - create Layer for (Prisoner 1) in folder Prefabs , call layer "Enemy"
 //5) - create Layer for (BulletPrefab) in folder Prefabs , call layer "Bullet"
+
 //====================================================================================================================================
 //set this parameters in ProjectSettings/Physics:
 //1) - set collision toogles deactive for (JailObjects) layer what you call (your created name) not collision with "Ground" layer & this layer to
