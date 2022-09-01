@@ -14,14 +14,14 @@ In project need create some layers & change in project settings/Physics:
 
 //====================================================================================================================================
 //set this parameters in ProjectSettings/Physics:
-//1) - set collision toogles deactive for (JailObjects) layer what you call (your created name) not collision with "Ground" layer & this layer to
+//1) - set collision bool deactive for (JailObjects) layer what you call (your created name) not collision with "Ground" layer & this layer to
 //((JailObjects).layer not collision with (JailObjects).layer);
 
-//2) - set collision toogles deactive for "Enemy" layer not collision with "Enemy" layer;
+//2) - set collision bool deactive for "Enemy" layer not collision with "Enemy" layer;
 
-//3) - set collision toogles deactive for "Player" layer not collision with "Player" layer & not collision with "Bullet" layer;
+//3) - set collision bool deactive for "Player" layer not collision with "Player" layer & not collision with "Bullet" layer;
 
-//4) - set collision toogles deactive for "Bullet" layer not collision with "Bullet" layer & not collision with "Player" layer;
+//4) - set collision bool deactive for "Bullet" layer not collision with "Bullet" layer & not collision with "Player" layer;
 //====================================================================================================================================
 //Chose all this layers for their objects;
 //Do this for all objects in children;
