@@ -13,7 +13,7 @@ In project need create some layers & change in project settings/Physics:
 //3) - create Layer for (FirstPersonCharacter) call layer "Player"
 //4) - create Layer for (Prisoner 1) in folder Prefabs , call layer "Enemy"
 //5) - create Layer for (BulletPrefab) in folder Prefabs , call layer "Bullet"
-
+//6) - Find ControllerSettings_Data this placed in Assets\Scripts\Settings , chose there rayGchmask - (Ground) 
 //====================================================================================================================================
 //set this parameters in ProjectSettings/Physics:
 //1) - set collision bool deactive for (JailObjects) layer what you call (your created name) not collision with "Ground" layer & this layer to
