@@ -7,7 +7,7 @@
 //with all changes - (change folder Assets in your project to this Assets folder)...
 //====================================================================================================================================
 In project need create some layers & change in project settings/Physics:
-//====================================================================================================================================
+//===========================================================================================
 //1) - create Layers for (JailObjects) named it what ever you want
 //2) - create Layer for (GroundFloor-1,2,3 & for Ladder) call layer - "Ground" 
 //3) - create Layer for (FirstPersonCharacter) call layer "Player"
